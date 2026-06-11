@@ -19,14 +19,6 @@ export default function Footer() {
           >
             barceros.santiago@gmail.com
           </a>
-          <a
-            href="https://instagram.com"
-            target="_blank"
-            rel="noreferrer"
-            className="text-sm font-medium text-white/55 transition-colors duration-200 hover:text-white"
-          >
-            Instagram
-          </a>
         </nav>
 
         <p className="text-sm text-white/40">© {2026} NOVA Studio</p>

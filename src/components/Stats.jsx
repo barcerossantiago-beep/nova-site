@@ -3,10 +3,10 @@ import { useInView } from 'framer-motion'
 import Reveal from './Reveal'
 
 const stats = [
-  { value: 120, suffix: '+', label: 'Projects shipped' },
-  { value: 38, suffix: '', label: 'Awards & mentions' },
-  { value: 15, suffix: '', label: 'Countries served' },
-  { value: 98, suffix: '%', label: 'Client retention' },
+  { value: 40, suffix: '+', label: 'Projects delivered' },
+  { value: 5, suffix: '+', label: 'Years of experience' },
+  { value: 24, suffix: 'hr', label: 'Average response time' },
+  { value: 96, suffix: '%', label: 'Client satisfaction' },
 ]
 
 function Counter({ value, suffix }) {

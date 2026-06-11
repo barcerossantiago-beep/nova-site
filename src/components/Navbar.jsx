@@ -48,7 +48,7 @@ export default function Navbar() {
 
         <Magnetic strength={0.5}>
           <a
-            href="#contact"
+            href="tel:+15302310056"
             className="inline-flex cursor-pointer items-center rounded-full bg-white px-5 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:bg-pink hover:text-white"
           >
             Start a project

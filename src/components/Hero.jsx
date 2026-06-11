@@ -96,7 +96,7 @@ export default function Hero() {
         >
           <Magnetic strength={0.45}>
             <a
-              href="#contact"
+              href="tel:+15302310056"
               className="aurora-move inline-flex cursor-pointer items-center rounded-full bg-gradient-to-r from-pink via-violet to-cyan px-7 py-3.5 font-semibold text-white shadow-lg shadow-pink/30 transition-shadow duration-200 hover:shadow-xl hover:shadow-violet/40"
             >
               Start a project

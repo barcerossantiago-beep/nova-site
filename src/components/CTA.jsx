@@ -22,17 +22,17 @@ export default function CTA() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Magnetic strength={0.45}>
               <a
-                href="mailto:hello@nova.studio"
+                href="tel:+15302310056"
                 className="inline-flex cursor-pointer items-center rounded-full bg-white px-8 py-4 font-semibold text-ink transition-colors duration-200 hover:bg-pink hover:text-white"
               >
                 Start a project
               </a>
             </Magnetic>
             <a
-              href="mailto:hello@nova.studio"
+              href="sms:+15302310056"
               className="text-sm font-medium text-white/70 underline-offset-4 transition-colors duration-200 hover:text-white hover:underline"
             >
-              hello@nova.studio
+              Text (530) 231-0056
             </a>
           </div>
         </div>
