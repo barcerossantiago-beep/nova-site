@@ -96,17 +96,17 @@ export default function Hero() {
         >
           <Magnetic strength={0.45}>
             <a
-              href="tel:+15302310056"
+              href="mailto:barceros.santiago@gmail.com"
               className="aurora-move inline-flex cursor-pointer items-center rounded-full bg-gradient-to-r from-pink via-violet to-cyan px-7 py-3.5 font-semibold text-white shadow-lg shadow-pink/30 transition-shadow duration-200 hover:shadow-xl hover:shadow-violet/40"
             >
               Start a project
             </a>
           </Magnetic>
           <a
-            href="#work"
+            href="#capabilities"
             className="inline-flex cursor-pointer items-center gap-2 rounded-full border border-white/15 px-7 py-3.5 font-semibold text-white/85 transition-colors duration-200 hover:border-white/40 hover:text-white"
           >
-            See our work
+            See what's possible
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
               <path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
             </svg>

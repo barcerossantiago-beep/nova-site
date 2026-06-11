@@ -22,7 +22,7 @@ export default function CTA() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Magnetic strength={0.45}>
               <a
-                href="tel:+15302310056"
+                href="mailto:barceros.santiago@gmail.com"
                 className="inline-flex cursor-pointer items-center rounded-full bg-white px-8 py-4 font-semibold text-ink transition-colors duration-200 hover:bg-pink hover:text-white"
               >
                 Start a project
