@@ -96,7 +96,9 @@ export default function Hero() {
         >
           <Magnetic strength={0.45}>
             <a
-              href="mailto:barceros.santiago@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=barceros.santiago@gmail.com&su=New%20project%20inquiry"
+              target="_blank"
+              rel="noreferrer"
               className="aurora-move inline-flex cursor-pointer items-center rounded-full bg-gradient-to-r from-pink via-violet to-cyan px-7 py-3.5 font-semibold text-white shadow-lg shadow-pink/30 transition-shadow duration-200 hover:shadow-xl hover:shadow-violet/40"
             >
               Start a project

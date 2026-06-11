@@ -22,7 +22,9 @@ export default function CTA() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Magnetic strength={0.45}>
               <a
-                href="mailto:barceros.santiago@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=barceros.santiago@gmail.com&su=New%20project%20inquiry"
+                target="_blank"
+                rel="noreferrer"
                 className="inline-flex cursor-pointer items-center rounded-full bg-white px-8 py-4 font-semibold text-ink transition-colors duration-200 hover:bg-pink hover:text-white"
               >
                 Start a project

@@ -48,7 +48,9 @@ export default function Navbar() {
 
         <Magnetic strength={0.5}>
           <a
-            href="mailto:barceros.santiago@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=barceros.santiago@gmail.com&su=New%20project%20inquiry"
+            target="_blank"
+            rel="noreferrer"
             className="inline-flex cursor-pointer items-center rounded-full bg-white px-5 py-2 text-sm font-semibold text-ink transition-colors duration-200 hover:bg-pink hover:text-white"
           >
             Start a project
